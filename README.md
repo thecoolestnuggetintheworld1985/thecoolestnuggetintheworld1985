@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 ![ATLASSPIN](https://github.com/user-attachments/assets/460a3ade-2644-4c90-bc01-459dff71bea4)  ![MECONESPIN](https://github.com/user-attachments/assets/a87c7cbd-3b0e-4d7b-b70f-cdbb9d4824b5)  ![MECTWOSPIN](https://github.com/user-attachments/assets/14954478-a88a-4395-ada9-5f8c666282a3) <------ idiots
 
-
-
+<!--
+If you wonder, I can change it completely, but it's funnier this way.
+No, game will not be published, sorry.
 
 
 
