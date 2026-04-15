@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: `"My game."`
-- 🌱 I’m currently learning: `"How to draw shelves."`
+- 🌱 I’m currently learning: `"How to draw clouds."`
 - 👯 I’m looking to collaborate on: `"I don't like collaborations."`
 - 🤔 I’m looking for help with: `"Schedule."`
 - 💬 Ask me about: `"Anything, I love questions."`
