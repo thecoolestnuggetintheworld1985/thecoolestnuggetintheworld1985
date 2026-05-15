@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: `"My game."`
-- 🌱 I’m currently learning: `"How to draw biplanes."`
+- 🔭 I’m currently working on: `"Nothing."`
+- 🌱 I’m currently learning: `"Sleeping."`
 - 👯 I’m looking to collaborate on: `"I don't like collaborations."`
-- 🤔 I’m looking for help with: `"Schedule."`
+- 🤔 I’m looking for help with: `"."`
 - 💬 Ask me about: `"Anything, I love questions."`
 - 📫 How to reach me: `"Pony town... or @karibza on discord... or @karibza on github... or @karibza on telegram..."`
 - 😄 Pronouns: `"Male human being."`
-- ⚡ Fun fact: `"Pilot is... pielot. A lot of pies."` 
+- ⚡ Fun fact: `"I don't feel funny."` 
 
 ## funny meme
 
