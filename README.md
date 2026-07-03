@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: `"Nothing."`
+- 🔭 I’m currently working on: `"My project."`
 - 🌱 I’m currently learning: `"3D modeling."`
 - 👯 I’m looking to collaborate on: `"I don't like collaborations."`
-- 🤔 I’m looking for help with: `"."`
+- 🤔 I’m looking for help with: `"MY PROJECT HELP ME."`
 - 💬 Ask me about: `"Anything, I love questions."`
 - 📫 How to reach me: `"Pony town... or @karibza on discord... or @karibza on github... or @karibza on telegram..."`
 - 😄 Pronouns: `"Male human being."`
-- ⚡ Fun fact: `"I don't like pies actually."` 
+- ⚡ Fun fact: `"Pilot is... pielot. A lot of pies."` 
 
 ## funny meme
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--
 If you wonder, I can change it completely, but it's funnier this way.
-No, game will not be published, sorry.
+Upd: ok I will be forced to publish my games
 
 
 
